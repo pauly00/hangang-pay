@@ -8,14 +8,11 @@
 
 ---
 
-## 🧑‍💻 기여자
-| 이름     | Github 프로필     | 역할                         |
-|----------|------------------|-----------------------------|
-| 남인서   | [sene03](https://github.com/sene03) | PM, FrontEnd, Backend,                      |
-| 유승준   | [fluanceifi](https://github.com/fluanceifi) | TL, Backand, QA           |
-| 서지원   | [seonjiwon](https://github.com/seonjiwon) |  Backend, infra            |
-| 정가은   | [khmandarrin](https://github.com/khmandarrin) | BlockChain       |
-| 류경록   | [pauly00](https://github.com/pauly00) | Frontend, Backend    |
+## 📚 프로젝트 문서
+
+- [시스템 구조 가이드](docs/guides/시스템구조.md): 서비스 구성과 코드 구조를 설명합니다.
+- [프로젝트 이해 가이드](docs/guides/프로젝트가이드.md): 주요 기술과 기능별 처리 흐름을 설명합니다.
+- [프로젝트 제출 문서](SUBMIT.md): 프로젝트 제출 정보와 주요 결과물을 정리합니다.
 
 ---
 
